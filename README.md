@@ -1,9 +1,5 @@
 # Final Review
 
-## Git & Github
-- What is the purpose of Git version tracking?
-- How is Github used by teams to work on projects?
-
 ## Datatypes & numeric operations
 Know the major types of data we have used:
 - Integers
